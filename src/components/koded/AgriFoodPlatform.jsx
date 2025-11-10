@@ -26,8 +26,8 @@ const PageContainer = styled.div`
 `;
 
 const TopHeader = styled.div`
-  background-color: ${DARK_GRAY};
-  color: ${WHITE};
+  background-color: ${WHITE};
+  color: ${DARK_GRAY};
   padding: 15px 20px;
   font-size: 1.1em;
   font-weight: bold;
